@@ -4,7 +4,7 @@
     <option name="enabledOnReformat" value="true" />
     <option name="enabledOnSave" value="true" />
     <option name="pathToExecutable" value="C:\Users\jke\AppData\Local\Programs\Python\Python313\Scripts\black.exe" />
-    <option name="sdkName" value="Python 3.13 (fastapistudy)" />
+    <option name="sdkName" value="Python 3.13 (fastapi_shop)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (python.exe)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (fastapi_shop)" project-jdk-type="Python SDK" />
 </project>
